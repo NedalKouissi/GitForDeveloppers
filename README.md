@@ -1,2 +1,2 @@
 # GitForDeveloppers
-Training time
+Training time, bitches!
